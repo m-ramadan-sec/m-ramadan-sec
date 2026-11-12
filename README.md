@@ -18,6 +18,12 @@ A defensive Python CLI for auditing HTTP security response headers on systems yo
 
 [Explore the repository →](https://github.com/m-ramadan-sec/headerhound)
 
+## Verified foundations
+
+**Cisco Networking Academy** · [Introduction to Networks](https://www.credly.com/badges/dc586e19-ab30-4449-a912-4d45cfbb6fe9/public_url) · [Switching, Routing & Wireless Essentials](https://www.credly.com/badges/ae9e013d-9dcd-409d-b6a3-412f27a59b18/public_url) · [Enterprise Networking, Security & Automation](https://www.credly.com/badges/54884140-afb2-494d-9621-7c645691a31e/public_url)
+
+[View hands-on labs and supporting evidence →](https://moramadan.com/#work)
+
 ## Current direction
 
 `Network security` · `Linux` · `Windows Server` · `SOC fundamentals` · `Python` · `Security labs`
