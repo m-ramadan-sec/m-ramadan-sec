@@ -2,34 +2,18 @@
   <img src="assets/profile-header.svg" alt="Mohamed Ramadan — Cybersecurity, networks, and systems" width="100%" />
 </p>
 
-I’m a cybersecurity student at **Arab Open University** in Cairo, building practical foundations across networks, Linux, Windows Server, technical support, and defensive security.
+I’m Mohamed Ramadan, based in Cairo. I build networking and defensive security labs, work with Linux and Windows Server, and write Python tools to make configuration issues easier to spot.
 
-I learn by building and documenting focused projects—then turning what I learn into tools that are safe, useful, and easy to understand. Right now, I’m deepening my **SOC analyst fundamentals** and **Python for security**.
+## Selected work
 
-## Featured work
+[**HeaderHound**](https://github.com/m-ramadan-sec/headerhound) is my Python CLI for reviewing HTTP security headers. It checks a URL and its redirects, then reports its findings in the terminal or as JSON.
 
-### [HeaderHound](https://github.com/m-ramadan-sec/headerhound)
+[**Network and systems labs**](https://www.moramadan.com/#work) cover routed networks in Cisco Packet Tracer and Windows Server hardening with Active Directory and Group Policy.
 
-A defensive Python CLI for auditing HTTP security response headers on systems you own or are authorized to assess.
-
-- Reviews CSP, HSTS, cookie attributes, CORS, redirect, and disclosure signals
-- Produces readable terminal output or stable JSON for automation
-- Uses conservative network guardrails and never crawls or exploits the target
-
-[Explore the repository →](https://github.com/m-ramadan-sec/headerhound)
-
-## Verified foundations
+## Networking coursework
 
 **Cisco Networking Academy** · [Introduction to Networks](https://www.credly.com/badges/dc586e19-ab30-4449-a912-4d45cfbb6fe9/public_url) · [Switching, Routing & Wireless Essentials](https://www.credly.com/badges/ae9e013d-9dcd-409d-b6a3-412f27a59b18/public_url) · [Enterprise Networking, Security & Automation](https://www.credly.com/badges/54884140-afb2-494d-9621-7c645691a31e/public_url)
 
-[View hands-on labs and supporting evidence →](https://moramadan.com/#work)
+## Contact
 
-## Current direction
-
-`Network security` · `Linux` · `Windows Server` · `SOC fundamentals` · `Python` · `Security labs`
-
-> Understand the machine. Understand the network. Learn how to secure both.
-
-## Connect
-
-[Portfolio](https://moramadan.com) · [LinkedIn](https://www.linkedin.com/in/eng-mohamed-ramadan-cyber) · [Email](mailto:hello@moramadan.com)
+[Portfolio](https://www.moramadan.com/) · [LinkedIn](https://www.linkedin.com/in/eng-mohamed-ramadan-cyber) · [hello@moramadan.com](mailto:hello@moramadan.com)
